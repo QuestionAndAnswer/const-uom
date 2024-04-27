@@ -1,0 +1,7 @@
+gen.sh
+.gitignore
+tsconfig.json
+src
+
+lib/**/*
+!lib/gen/*

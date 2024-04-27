@@ -1,0 +1,5 @@
+.vscode
+dist
+gen/
+node_modules
+lib
