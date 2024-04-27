@@ -1,7 +1,7 @@
 {
   "name": "const-uom",
   "version": "1.0.0",
-  "description": "",
+  "description": "Utility library with constants of units of measurements",
   "type": "module",
   "exports": {
     "./*": "./lib/gen/*"
@@ -9,7 +9,12 @@
   "scripts": {
     "build": "sh gen.sh && tsc"
   },
-  "keywords": [],
+  "keywords": [
+    "uom",
+    "unit",
+    "measurement",
+    "si"
+  ],
   "author": "Artsiom Miksiuk (forbiddentool@gmail.com)",
   "license": "MIT",
   "devDependencies": {
