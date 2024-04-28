@@ -46,7 +46,7 @@ const byte2 = 10 * KiB;
 const byte3 = 10 * KibibytesInByte;
 
 // 10240 Bytes in Kibibytes 
-const kb1 = 10000 / Kibibyte; 
-const kb2 = 10000 / KiB;
-const kb3 = 10000 / KibibytesInByte;
+const kb1 = 10240 / Kibibyte; 
+const kb2 = 10240 / KiB;
+const kb3 = 10240 / KibibytesInByte;
 ```
