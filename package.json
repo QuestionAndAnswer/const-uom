@@ -1,6 +1,6 @@
 {
   "name": "const-uom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility library with constants of units of measurements",
   "repository": {
     "url": "https://github.com/QuestionAndAnswer/const-uom"
